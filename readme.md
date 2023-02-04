@@ -2,6 +2,9 @@ This project is the creation of the back end for an e-commerce site. This applic
 
 
 Some important commands of this project given below
+
+
+
 npm init
 
 npm install express, sequelize, dotenv, mysql2, body-parser --save
